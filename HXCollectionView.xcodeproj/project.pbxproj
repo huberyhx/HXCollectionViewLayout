@@ -674,7 +674,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A267GPU8XH;
-				INFOPLIST_FILE = HXCollectionView/Info.plist;
+				INFOPLIST_FILE = HXCollectionView/Other/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubery.hx.HXCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -688,7 +688,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A267GPU8XH;
-				INFOPLIST_FILE = HXCollectionView/Info.plist;
+				INFOPLIST_FILE = HXCollectionView/Other/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubery.hx.HXCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";

@@ -4,7 +4,7 @@
 //
 //  Created by hubery on 2018/1/12.
 //  Copyright © 2018年 hubery. All rights reserved.
-//
+// https://github.com/huberyhx/HXCollectionViewLayout.git
 
 #import <UIKit/UIKit.h>
 
